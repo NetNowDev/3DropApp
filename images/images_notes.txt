@@ -1,0 +1,3 @@
+Indication panes : 
+gallery direction left 
+gallery direction right 
